@@ -2,6 +2,14 @@
 
 This Power Query (M) snippet generates a dynamic list of dates starting from a user-defined start date up to the current date on the user's local machine. The list updates automatically every day based on the system's local date.
 
+## 📸 Preview
+
+
+
+https://github.com/user-attachments/assets/93d03533-8e43-445c-97c6-7f6702d6a8f2
+
+
+
 ## How it works
 
 - You set the starting date by changing the value of `#date(YYYY,MM,DD)`.
